@@ -1,0 +1,69 @@
+{
+  "start": {
+    "tagline": "Speel samen, lokaal op je wifi",
+    "enterName": "Hoe heet je?",
+    "namePlaceholder": "Jouw naam",
+    "confirm": "Bevestigen",
+    "nameTooShort": "Minimaal 2 tekens",
+    "createTitle": "Spel aanmaken",
+    "joinTitle": "Spel joinen"
+  },
+  "lobby": {
+    "title": "Skyjo",
+    "create": "Spel aanmaken",
+    "join": "Spel joinen",
+    "waiting": "Wachten op spelers...",
+    "start": "Spel starten",
+    "roomCode": "Kamercode",
+    "tapToCopy": "Tik om te kopiëren",
+    "copied": "Gekopieerd!",
+    "players": "Spelers",
+    "minPlayers": "Minimaal 2 spelers nodig",
+    "findingRooms": "Kamers zoeken...",
+    "noRooms": "Geen kamers gevonden",
+    "joinManual": "Handmatig joinen",
+    "enterCode": "Voer kamercode in",
+    "joinRoom": "Joinen",
+    "back": "Terug",
+    "you": "jij",
+    "host": "host",
+    "scanToJoin": "Scan om te joinen",
+    "waitingHost": "Wachten op de host..."
+  },
+  "game": {
+    "yourTurn": "Jij bent aan de beurt",
+    "waiting": "{{name}} is aan de beurt",
+    "drawDeck": "Trekstapel",
+    "drawDiscard": "Aflegstapel",
+    "score": "Score",
+    "round": "Ronde {{number}}",
+    "swap": "Ruilen",
+    "discard": "Weggooien",
+    "mustPlay": "Je moet deze kaart spelen",
+    "flipTwo": "Draai 2 kaarten om",
+    "flipRemaining": "Nog {{count}} om te draaien",
+    "ready": "KLAAR",
+    "chooseSource": "Kies een stapel",
+    "selectPosition": "Kies een kaart om te ruilen",
+    "flipAfterDiscard": "Draai een kaart om",
+    "notYourTurn": "Niet jouw beurt",
+    "lastTurns": "Laatste beurten!",
+    "offline": "offline"
+  },
+  "roundEnd": {
+    "title": "Ronde {{number}} afgelopen",
+    "penalty": "×2 straf",
+    "next": "Volgende ronde",
+    "total": "Totaal",
+    "waitingHost": "Wachten op host..."
+  },
+  "gameOver": {
+    "title": "Spel afgelopen!",
+    "winner": "{{name}} wint!",
+    "playAgain": "Opnieuw spelen",
+    "rank": "Plaats"
+  },
+  "connection": {
+    "lost": "Verbinding verbroken — opnieuw verbinden..."
+  }
+}

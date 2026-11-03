@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  skyjo:
+    build: .
+    # network_mode: host is verplicht voor mDNS broadcast (skyjo.local) op het LAN.
+    network_mode: host
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - PORT=3000

@@ -1,0 +1,69 @@
+{
+  "start": {
+    "tagline": "Spielt zusammen, lokal über euer WLAN",
+    "enterName": "Wie heißt du?",
+    "namePlaceholder": "Dein Name",
+    "confirm": "Bestätigen",
+    "nameTooShort": "Mindestens 2 Zeichen",
+    "createTitle": "Spiel erstellen",
+    "joinTitle": "Spiel beitreten"
+  },
+  "lobby": {
+    "title": "Skyjo",
+    "create": "Spiel erstellen",
+    "join": "Spiel beitreten",
+    "waiting": "Warten auf Spieler...",
+    "start": "Spiel starten",
+    "roomCode": "Raumcode",
+    "tapToCopy": "Zum Kopieren tippen",
+    "copied": "Kopiert!",
+    "players": "Spieler",
+    "minPlayers": "Mindestens 2 Spieler nötig",
+    "findingRooms": "Suche nach Räumen...",
+    "noRooms": "Keine Räume gefunden",
+    "joinManual": "Manuell beitreten",
+    "enterCode": "Raumcode eingeben",
+    "joinRoom": "Beitreten",
+    "back": "Zurück",
+    "you": "du",
+    "host": "Host",
+    "scanToJoin": "Zum Beitreten scannen",
+    "waitingHost": "Warten auf den Host..."
+  },
+  "game": {
+    "yourTurn": "Du bist am Zug",
+    "waiting": "{{name}} ist am Zug",
+    "drawDeck": "Nachziehstapel",
+    "drawDiscard": "Ablagestapel",
+    "score": "Punkte",
+    "round": "Runde {{number}}",
+    "swap": "Tauschen",
+    "discard": "Abwerfen",
+    "mustPlay": "Du musst diese Karte spielen",
+    "flipTwo": "Drehe 2 Karten um",
+    "flipRemaining": "Noch {{count}} umzudrehen",
+    "ready": "FERTIG",
+    "chooseSource": "Wähle einen Stapel",
+    "selectPosition": "Wähle eine Karte zum Tauschen",
+    "flipAfterDiscard": "Drehe eine Karte um",
+    "notYourTurn": "Nicht dein Zug",
+    "lastTurns": "Letzte Züge!",
+    "offline": "offline"
+  },
+  "roundEnd": {
+    "title": "Runde {{number}} beendet",
+    "penalty": "×2 Strafe",
+    "next": "Nächste Runde",
+    "total": "Gesamt",
+    "waitingHost": "Warten auf Host..."
+  },
+  "gameOver": {
+    "title": "Spiel beendet!",
+    "winner": "{{name}} gewinnt!",
+    "playAgain": "Nochmal spielen",
+    "rank": "Platz"
+  },
+  "connection": {
+    "lost": "Verbindung getrennt — neu verbinden..."
+  }
+}
